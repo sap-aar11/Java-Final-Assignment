@@ -2,9 +2,12 @@
 public class Patterns {
 
 	public static void main(String[] args) {
+		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<---------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<---------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("Inside Main >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<    Pattern1    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 		pattern1();
+		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<---------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<---------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
 	}
 	public static void pattern1()
